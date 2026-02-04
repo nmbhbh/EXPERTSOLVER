@@ -1,0 +1,9 @@
+Image Sources:
+- Logo: Created using Canva
+- Banner: https://unsplash.com/photos/dubai-skyline (Free to use)
+- Apartment: https://www.pexels.com/photo/luxury-apartment (Free to use)
+- Villa: https://www.pexels.com/photo/luxury-villa (Free to use)
+- Warehouse: https://www.pexels.com/photo/industrial-warehouse (Free to use)
+
+CSS Framework: Pure CSS (no frameworks used)
+Fonts: Arial (system font)
